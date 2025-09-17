@@ -1,0 +1,25 @@
+URL: https://deltaclient.xyz/img/betalt.png
+Status: 200
+Content-Type: image/png
+File-Extension: png
+Size: 663551 bytes
+Scan-Time: 2025-09-17T17:22:19.178666
+Headers:
+{
+  "Date": "Wed, 17 Sep 2025 14:22:17 GMT",
+  "Content-Type": "image/png",
+  "Content-Length": "663551",
+  "Connection": "keep-alive",
+  "CF-RAY": "9809413f6e7c3566-WAW",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Accept-Ranges": "bytes",
+  "Age": "6131",
+  "Cache-Control": "max-age=14400",
+  "cf-cache-status": "HIT",
+  "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=cNXw2mVhRNnEyKO%2BU38xgxjIWmxInUwMLi9j1GeelqpW16XRgrrCOnV4CwQsebZXu9k4wc6ZdriihsAMYSYHUXHEJlFZrTBR79%2FqC7NAtAI4Omidn3sBSZq9bbbvwDAgBV4%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+  "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+  "Server": "cloudflare",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "server-timing": "cfL4;desc=\"?proto=TCP&rtt=23531&min_rtt=18145&rtt_var=9019&sent=500&recv=263&lost=0&retrans=0&sent_bytes=672505&recv_bytes=6549&delivery_rate=12218918&cwnd=546&unsent_bytes=0&cid=98af5c731b763377&ts=6891&x=0\""
+}

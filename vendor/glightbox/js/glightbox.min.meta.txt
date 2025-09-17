@@ -1,0 +1,25 @@
+URL: https://deltaclient.xyz/vendor/glightbox/js/glightbox.min.js
+Status: 200
+Content-Type: text/javascript
+File-Extension: js
+Size: 56300 bytes
+Scan-Time: 2025-09-17T17:22:27.774731
+Headers:
+{
+  "Date": "Wed, 17 Sep 2025 14:22:26 GMT",
+  "Content-Type": "text/javascript",
+  "Transfer-Encoding": "chunked",
+  "Connection": "keep-alive",
+  "Content-Encoding": "gzip",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Age": "6140",
+  "Cache-Control": "max-age=14400",
+  "cf-cache-status": "HIT",
+  "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=KQBYbF2tZUO8qBiusfH9LXpEHXSBTTW2vG4Z0N50aCQeodEDj%2BvIYSn%2FS6GC8nskRa07%2Fsk4p0Rp%2Few7BaM2t%2F8CDvIgqgnWNomuw5RJqTcAnW8kgszkzhuNkyWbjGtKjuk%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+  "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+  "Server": "cloudflare",
+  "CF-RAY": "980941759d083566-WAW",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "server-timing": "cfL4;desc=\"?proto=TCP&rtt=20410&min_rtt=18145&rtt_var=2587&sent=1679&recv=883&lost=0&retrans=229&sent_bytes=2333787&recv_bytes=13753&delivery_rate=4190959&cwnd=340&unsent_bytes=0&cid=98af5c731b763377&ts=15570&x=0\""
+}

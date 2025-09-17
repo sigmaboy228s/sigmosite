@@ -1,0 +1,25 @@
+URL: https://deltaclient.xyz/vendor/bootstrap-icons/bootstrap-icons.css
+Status: 200
+Content-Type: text/css
+File-Extension: css
+Size: 98255 bytes
+Scan-Time: 2025-09-17T17:22:23.099017
+Headers:
+{
+  "Date": "Wed, 17 Sep 2025 14:22:21 GMT",
+  "Content-Type": "text/css",
+  "Transfer-Encoding": "chunked",
+  "Connection": "keep-alive",
+  "Content-Encoding": "gzip",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Age": "6554",
+  "Cache-Control": "max-age=14400",
+  "cf-cache-status": "HIT",
+  "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=rHF7%2Frbqu%2BJEdITSpNpGiplvT1F1jBoDAD98Kn7MdRPnroABhgT%2FPS00fxYaMPdBBvyWjebyR1Rm6imku4gZH2w1WYHdVkuj%2BcMz69%2B8XmlV8621q2LKvxU2FuGF3VAszXU%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+  "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+  "Server": "cloudflare",
+  "CF-RAY": "9809415868263566-WAW",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "server-timing": "cfL4;desc=\"?proto=TCP&rtt=26141&min_rtt=18145&rtt_var=8988&sent=1603&recv=840&lost=0&retrans=229&sent_bytes=2259398&recv_bytes=9527&delivery_rate=4190959&cwnd=340&unsent_bytes=0&cid=98af5c731b763377&ts=10885&x=0\""
+}
