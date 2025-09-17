@@ -1,0 +1,19 @@
+URL: https://deltaclient.xyz/cdn-cgi/styles/cf.errors.css
+Status: 200
+Content-Type: text/css
+File-Extension: css
+Size: 24051 bytes
+Scan-Time: 2025-09-17T17:22:31.391923
+Headers:
+{
+  "Date": "Wed, 17 Sep 2025 14:22:29 GMT",
+  "Content-Type": "text/css",
+  "Transfer-Encoding": "chunked",
+  "Connection": "keep-alive",
+  "Vary": "accept-encoding",
+  "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=p0oIgnRXePYKM240Vub%2FbDZEVgz8n2MmHHRinMziKWXdBxFfP%2BfLsm9Dnv%2Fbv1ZhuHV3zoSGtHSaVmDvqbteUFYfDxVOFYTAXwErZkE%3D\"}]}",
+  "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "Content-Encoding": "gzip",
+  "Server": "cloudflare",
+  "CF-RAY": "9809418c5e57020f-WAW"
+}

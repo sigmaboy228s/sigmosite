@@ -1,0 +1,25 @@
+URL: https://deltaclient.xyz/vendor/purecounter/purecounter_vanilla.js
+Status: 200
+Content-Type: text/javascript
+File-Extension: js
+Size: 5417 bytes
+Scan-Time: 2025-09-17T17:22:16.781967
+Headers:
+{
+  "Date": "Wed, 17 Sep 2025 14:22:15 GMT",
+  "Content-Type": "text/javascript",
+  "Transfer-Encoding": "chunked",
+  "Connection": "keep-alive",
+  "Content-Encoding": "gzip",
+  "Vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+  "Last-Modified": "Fri, 02 May 2025 20:08:21 GMT",
+  "Age": "6129",
+  "Cache-Control": "max-age=14400",
+  "cf-cache-status": "HIT",
+  "Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=xF6Pzi38DlU4iY%2BsSLAevTygz%2FF36zy0znEo3ho4BcGV74csy3zeovhSgD4OV19Q6bP9hoW0ZUnN0Tly5X%2BugIV1rYSXq1RkRD9GvYmlHrNoUbt%2Bl3smg%2BGvu3OJo%2Fb5kzA%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+  "NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+  "Server": "cloudflare",
+  "CF-RAY": "98094130f8893566-WAW",
+  "alt-svc": "h3=\":443\"; ma=86400",
+  "server-timing": "cfL4;desc=\"?proto=TCP&rtt=19971&min_rtt=18145&rtt_var=1789&sent=483&recv=251&lost=0&retrans=0&sent_bytes=660139&recv_bytes=4464&delivery_rate=12218918&cwnd=529&unsent_bytes=0&cid=98af5c731b763377&ts=4578&x=0\""
+}

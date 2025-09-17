@@ -1,0 +1,25 @@
+{
+  "base_url": "https://deltaclient.xyz",
+  "scan_start": "2025-09-17T17:22:12.119980",
+  "scan_end": "2025-09-17T17:22:32.450623",
+  "duration_seconds": 20.330643,
+  "total_pages_scanned": 34,
+  "successful_scans": 34,
+  "failed_scans": 1,
+  "unique_urls_found": 35,
+  "redirects_count": 8,
+  "file_types_distribution": {
+    "html": 12,
+    "js": 10,
+    "css": 7,
+    "png": 5
+  },
+  "database_vulnerabilities": [],
+  "downloaded_files": 0,
+  "settings": {
+    "max_pages": 500,
+    "delay": 0.5,
+    "timeout": 15,
+    "max_threads": 3
+  }
+}
