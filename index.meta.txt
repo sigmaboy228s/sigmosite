@@ -1,4 +1,4 @@
-URL: https://deltaclient.xyz
+URL: https://dildoclient.ezz
 Status: 200
 Content-Type: text/html;charset=utf-8
 File-Extension: html
@@ -21,3 +21,4 @@ Headers:
   "alt-svc": "h3=\":443\"; ma=86400",
   "server-timing": "cfL4;desc=\"?proto=TCP&rtt=23533&min_rtt=18145&rtt_var=8459&sent=1627&recv=854&lost=0&retrans=229&sent_bytes=2281985&recv_bytes=11165&delivery_rate=4190959&cwnd=340&unsent_bytes=0&cid=98af5c731b763377&ts=12698&x=0\""
 }
+
